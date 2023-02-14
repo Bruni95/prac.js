@@ -14,3 +14,4 @@ function solution(sizes) {
 
   return width * height;
 }
+console.log("")
