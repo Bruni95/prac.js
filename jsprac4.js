@@ -7,6 +7,7 @@ function solution(a, b) {
         answer += i;
     }
     return answer;
+    console.log(solution)
 }
 
 // 두 정수 사이의 합
